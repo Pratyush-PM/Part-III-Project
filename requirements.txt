@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+torch
+sbi
+lsbi
+datetime
+IPython
+ipywidgets
+plotly

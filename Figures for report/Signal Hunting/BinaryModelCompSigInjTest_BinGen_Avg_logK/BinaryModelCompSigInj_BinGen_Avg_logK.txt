@@ -1,0 +1,3 @@
+This figure is log bayes factor averaged over 5 training sets and 200 training rounds for 10 validation datasets. The signal genration for simulations was binned approach.
+
+The same 10 vlaidaiton datasets are used for this and simulated signal generation via prior sampling.
